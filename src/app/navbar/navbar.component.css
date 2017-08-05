@@ -1,0 +1,10 @@
+.row {
+  font-family: "Ubuntu Condensed", sans-serif;
+  padding-bottom: 50px;
+  font-size: 32px;
+  color: #111;
+  text-align: center;
+}
+.list {
+    list-style-type: none;
+}

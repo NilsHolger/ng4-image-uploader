@@ -1,0 +1,29 @@
+.container {
+  color: #111;
+  margin-top: 12%;
+  background-color: #fbfbfb;
+  box-shadow: 10px 40px 80px 60px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 60%;
+  padding: 5%;
+  boder-radius: 10px;
+}
+
+h1.login-title {
+  padding-bottom: 50px;
+  font-family: "Acme", sans-serif;
+  font-size: 32px;
+  color: #111;
+  text-align: center;
+}
+
+button {
+  height: 60px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+input {
+  font-size: 20px;
+  line-height: 60px;
+  height: 60px;
+}
